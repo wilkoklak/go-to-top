@@ -2,7 +2,7 @@ const gulp = require('gulp')
 const babel = require('gulp-babel')
 
 gulp.task('default', () => {
-	gulp.dest('src/gototop.js')
+	gulp.src('src/*.js')
 		.pipe(babel())
 		.pipe(gulp.dest('dist/'))
 })
