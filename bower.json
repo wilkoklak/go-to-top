@@ -1,0 +1,25 @@
+{
+  "name": "go-to-top",
+  "homepage": "https://github.com/wilkoklak/go-to-top",
+  "authors": [
+    "Artur <thereaperv11@gmail.com>"
+  ],
+  "description": "A JS snippet for go to top button",
+  "main": "gototop.js",
+  "keywords": [
+    "go",
+    "to",
+    "top",
+    "js",
+    "javascript",
+    "utility"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
